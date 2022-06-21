@@ -4,4 +4,4 @@
             <class name="com.training.pom.tests.AlertsTest" />
         </classes>
     </test>
-</suite>
+</suite> 
